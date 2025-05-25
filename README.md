@@ -130,6 +130,8 @@ module traffic_light_controller_tb;
     end
 
 endmodule
+![Traffic Light TB](https://github.com/user-attachments/assets/bbc20704-4d29-44af-aca7-b52e47f4b11a)
+
 
 
 Conclusion
